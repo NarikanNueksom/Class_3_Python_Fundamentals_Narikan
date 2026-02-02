@@ -1,1 +1,1 @@
-# Class_3_Python_Fundamentals_Narikan
+# GE234 Basic Programming_Narikan
